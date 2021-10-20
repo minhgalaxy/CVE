@@ -1,5 +1,12 @@
+### Information
+- Author: minhvv from Inv1cta Team - HPT Cyber Security Center
+- Workmail: minhvv@hpt.vn
+- Gmail: vvminh198@gmail.com
 
 
+---
 
-- [CVE-2021-40618 - SQL Injection in file HoldAddressFields.php](CVE-2021-40618.md)
-- [CVE-2021-40292 - Stored Cross Site Sripting via via the settingnew parameter](CVE-2021-40292.md)
+### CVE
+All of my CVEs
+- CVE-2021-40618	  --  9.8	    --   [SQL Injection in file HoldAddressFields.php](CVE-2021-40618.md)                   --  https://nvd.nist.gov/vuln/detail/CVE-2021-40618
+- CVE-2021-40292	  --  5.4     --   [Stored Cross Site Sripting via via the settingnew parameter](CVE-2021-40292.md)   --  https://nvd.nist.gov/vuln/detail/CVE-2021-40292
