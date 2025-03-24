@@ -10,6 +10,19 @@
 | 1 | CVE-2021-40618 | SQL Injection in file HoldAddressFields.php | 9.8 | https://nvd.nist.gov/vuln/detail/CVE-2021-40618 |
 | 2 | CVE-2021-40292 | Stored XSS via the settingnew parameter     | 5.4 | https://nvd.nist.gov/vuln/detail/CVE-2021-40292 |
 
+---
+
+### CVE 2024
+
+| # | CVE ID | Vendor | Product | CVSS 3.1 | Description | Published date |
+| 1 | [CVE-2023-49330](https://nvd.nist.gov/vuln/detail/CVE-2023-49330) | ManageEngine | ADAudit Plus | 8.8 | Zoho ManageEngine ADAudit Plus versions below 7271 allows SQL Injection while getting aggregate report data | 05/20/2024 |
+| 2 | [CVE-2023-49331](https://nvd.nist.gov/vuln/detail/CVE-2023-49331) | ManageEngine | ADAudit Plus | 8.8 | Zoho ManageEngine ADAudit Plus versions below 7271 allows SQL injection in the aggregate reports search option | 05/20/2024 |
+| 3 | [CVE-2023-49332](https://nvd.nist.gov/vuln/detail/CVE-2023-49332) | ManageEngine | ADAudit Plus | 8.8 | Zoho ManageEngine ADAudit Plus versions below 7271 allows SQL injection while adding file shares | 05/20/2024 |
+| 4 | [CVE-2023-49333](https://nvd.nist.gov/vuln/detail/CVE-2023-49333) | ManageEngine | ADAudit Plus | 8.8 | Zoho ManageEngine ADAudit Plus versions below 7271 allows SQL injection in the dashboard graph feature | 05/20/2024 |
+| 5 | [CVE-2023-49334](https://nvd.nist.gov/vuln/detail/CVE-2023-49334) | ManageEngine | ADAudit Plus | 8.8 | Zoho ManageEngine ADAudit Plus versions below 7271 allows SQL Injection while exporting a full summary report | 05/20/2024 |
+
+
+---
 
 ### CVE 2024
 
@@ -29,8 +42,3 @@
 | 12 | [CVE-2024-36516](https://nvd.nist.gov/vuln/detail/CVE-2024-36516) | ManageEngine | ADAudit Plus | 8.8 | Zohocorp ManageEngine ADAudit Plus versions below 8000 are vulnerable to the authenticated SQL injection in dashboard. Note: This vulnerability is different from another vulnerability (CVE-2024-36515), both of which have affected ADAudit Plus' dashboard | 08/23/2024 |
 | 13 | [CVE-2024-36517](https://nvd.nist.gov/vuln/detail/CVE-2024-36517) | ManageEngine | ADAudit Plus | 8.8 | Zohocorp ManageEngine ADAudit Plus versions below 8000 are vulnerable to the authenticated SQL injection in alerts module | 08/23/2024 |
 | 14 | [CVE-2024-38871](https://nvd.nist.gov/vuln/detail/CVE-2024-38871) | ManageEngine | Exchange Reporter Plus | 8.8 | Zohocorp ManageEngine Exchange Reporter Plus versions 5717 and below are vulnerable to the authenticated SQL injection in the reports module | 07/26/2024 |
-| 15 | [CVE-2023-49330](https://nvd.nist.gov/vuln/detail/CVE-2023-49330) | ManageEngine | ADAudit Plus | 8.8 | Zoho ManageEngine ADAudit Plus versions below 7271 allows SQL Injection while getting aggregate report data | 05/20/2024 |
-| 16 | [CVE-2023-49331](https://nvd.nist.gov/vuln/detail/CVE-2023-49331) | ManageEngine | ADAudit Plus | 8.8 | Zoho ManageEngine ADAudit Plus versions below 7271 allows SQL injection in the aggregate reports search option | 05/20/2024 |
-| 17 | [CVE-2023-49332](https://nvd.nist.gov/vuln/detail/CVE-2023-49332) | ManageEngine | ADAudit Plus | 8.8 | Zoho ManageEngine ADAudit Plus versions below 7271 allows SQL injection while adding file shares | 05/20/2024 |
-| 18 | [CVE-2023-49333](https://nvd.nist.gov/vuln/detail/CVE-2023-49333) | ManageEngine | ADAudit Plus | 8.8 | Zoho ManageEngine ADAudit Plus versions below 7271 allows SQL injection in the dashboard graph feature | 05/20/2024 |
-| 19 | [CVE-2023-49334](https://nvd.nist.gov/vuln/detail/CVE-2023-49334) | ManageEngine | ADAudit Plus | 8.8 | Zoho ManageEngine ADAudit Plus versions below 7271 allows SQL Injection while exporting a full summary report | 05/20/2024 |
