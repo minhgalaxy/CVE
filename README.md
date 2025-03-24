@@ -15,6 +15,7 @@
 ### CVE 2024
 
 | # | CVE ID | Vendor | Product | CVSS 3.1 | Description | Published date |
+| --- | --- | --- | --- | --- | --- | --- |
 | 1 | [CVE-2023-49330](https://nvd.nist.gov/vuln/detail/CVE-2023-49330) | ManageEngine | ADAudit Plus | 8.8 | Zoho ManageEngine ADAudit Plus versions below 7271 allows SQL Injection while getting aggregate report data | 05/20/2024 |
 | 2 | [CVE-2023-49331](https://nvd.nist.gov/vuln/detail/CVE-2023-49331) | ManageEngine | ADAudit Plus | 8.8 | Zoho ManageEngine ADAudit Plus versions below 7271 allows SQL injection in the aggregate reports search option | 05/20/2024 |
 | 3 | [CVE-2023-49332](https://nvd.nist.gov/vuln/detail/CVE-2023-49332) | ManageEngine | ADAudit Plus | 8.8 | Zoho ManageEngine ADAudit Plus versions below 7271 allows SQL injection while adding file shares | 05/20/2024 |
